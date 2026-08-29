@@ -7,7 +7,7 @@ This repository documents my practice and progress in Python, with a focus on pr
 ## 📌 HackerRank Profile
 
 🔗 **My HackerRank Profile:**
-`[[ADD YOUR HACKERRANK PROFILE LINK HERE]](https://www.hackerrank.com/profile/mahfathy79)`
+`https://www.hackerrank.com/profile/mahfathy79`
 
 ## 📂 Repository Contents
 
